@@ -19,4 +19,4 @@ async function checkBalance(walletAddress, providerUrl) {
 // Exporting the function
 module.exports = {
     checkBalance
-};
+};    
